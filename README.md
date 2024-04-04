@@ -1,7 +1,9 @@
 # Java Technical Task
 
 **Topic**: String Statistics
+
 **Input**: Text, either from Standard Input Stream or from File
+
 **Output**: Answers to the tasks below
 
 **Tasks**:
